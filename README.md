@@ -1,2 +1,2 @@
-# html-portfolio-udemy-project
+# html-only-portfolio-udemy-project
 Udemy Project Portfolio
